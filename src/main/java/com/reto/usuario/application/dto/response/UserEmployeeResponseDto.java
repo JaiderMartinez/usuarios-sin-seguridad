@@ -11,5 +11,5 @@ import lombok.Setter;
 @NoArgsConstructor
 public class UserEmployeeResponseDto {
 
-    private Long IdUser;
+    private Long idUser;
 }
